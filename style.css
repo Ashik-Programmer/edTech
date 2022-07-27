@@ -1,0 +1,20 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-logo {
+    color: #4A4A4A;
+    font-weight: 600;
+}
+
+.nav-header {
+    font-weight: 400;
+    color: #777777;
+    font-size: 14px;
+}
+
+.register {
+    color: #289BDE;
+    font-weight: 600;
+    font-size: 15px;
+}
