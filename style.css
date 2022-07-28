@@ -18,3 +18,24 @@ body {
     font-weight: 600;
     font-size: 15px;
 }
+
+.courses-info h2 {
+    font-weight: 600;
+    color: #1D1D1D;
+}
+
+.card-info h5 {
+    font-weight: 600;
+    font-size: 18px;
+    color: #4A4A4A;
+}
+
+.card-price {
+    font-weight: 600;
+    font-size: 18px;
+    color: #289BDE;
+}
+
+.btn-bg {
+    background: #289BDE;
+}
