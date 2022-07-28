@@ -44,3 +44,22 @@ body {
 .explore-bg {
     background: #F4FAFD;
 }
+
+.ready-info h5 {
+    font-weight: 600;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+.ready-info p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #F4F4F4;
+}
+
+.ready-bg {
+    background: #FFFFFF;
+    color: #289BDE;
+    text-align: center;
+    font-size: 15px;
+}
