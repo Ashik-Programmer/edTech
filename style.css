@@ -38,4 +38,9 @@ body {
 
 .btn-bg {
     background: #289BDE;
+    color: #ffffff;
+}
+
+.explore-bg {
+    background: #F4FAFD;
 }
