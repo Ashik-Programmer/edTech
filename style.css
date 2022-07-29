@@ -104,8 +104,6 @@ body {
 }
 
 .footer-icon a {
-    position: relative;
-    top: 25px;
     color: #FFFFFF;
     text-decoration: none;
     margin-left: 10px;
@@ -116,5 +114,8 @@ body {
     height: 50px;
     background: #242424;
     border-radius: 25px;
+}
+
+.footer-icon i {
     line-height: 50px;
 }
